@@ -18,11 +18,12 @@ O projeto contempla todas as etapas necessárias para uma solução completa:
 - Disponibilização do modelo através de uma API REST;
 - Containerização da aplicação utilizando Docker.
 
-#  Demonstração (indisponível em breve)
+#  Demonstração
 
-API online: https://news-classifier-uh0j.onrender.com
+A API foi disponibilizada temporariamente para fins de demonstração do projeto. Os links abaixo poderão ficar indisponíveis após o período de avaliação.
 
-Documentação (Swagger): https://news-classifier-uh0j.onrender.com/docs
+- **API:** https://news-classifier-ejgc.onrender.com
+- **Documentação (Swagger):** https://news-classifier-ejgc.onrender.com/docs
 
 
 #  Dataset
