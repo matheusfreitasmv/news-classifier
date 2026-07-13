@@ -1,0 +1,2 @@
+Para treinar o modelo, faça o download do dataset em https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol/data
+Posteriormente, adicione o dataset nesse diretório.
