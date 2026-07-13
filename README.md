@@ -75,6 +75,7 @@ Após o pré-processamento, foram utilizadas apenas as informações considerada
 │   └── train.ipynb
 │
 ├── src/
+│   ├── __init__.py
 │   ├── preprocess.py
 │   ├── train.py
 │   ├── predict.py
