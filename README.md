@@ -20,7 +20,7 @@ O projeto contempla todas as etapas necessárias para uma solução completa:
 
 #  Demonstração
 
-A API foi disponibilizada temporariamente para fins de demonstração do projeto. Os links abaixo poderão ficar indisponíveis após o período de avaliação.
+A API foi disponibilizada temporariamente para fins de demonstração do projeto. Os links abaixo poderão ficar indisponíveis a qualquer momento.
 
 - **API:** https://news-classifier-ejgc.onrender.com
 - **Documentação (Swagger):** https://news-classifier-ejgc.onrender.com/docs
@@ -221,11 +221,7 @@ Ao final do treinamento serão gerados automaticamente:
 - modelo treinado (`.pkl`);
 - arquivo contendo as métricas (`.json`).
 
-Os arquivos serão armazenados no diretório:
-
-```text
-models/
-```
+Os arquivos serão armazenados no diretório `models/`
 
 # Predição
 
